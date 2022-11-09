@@ -1,0 +1,15 @@
+{
+  "name": "shipittest",
+  "version": "1.0.0",
+  "description": "A demo of ship it deployments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "shipit-cli": "^5.3.0",
+    "shipit-deploy": "^5.3.0"
+  }
+}
