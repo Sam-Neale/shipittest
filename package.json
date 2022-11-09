@@ -11,5 +11,8 @@
   "devDependencies": {
     "shipit-cli": "^5.3.0",
     "shipit-deploy": "^5.3.0"
+  },
+  "dependencies": {
+    "shipit-local": "^0.5.5"
   }
 }
